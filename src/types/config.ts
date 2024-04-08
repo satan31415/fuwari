@@ -30,6 +30,7 @@ export type NavBarConfig = {
 export type ProfileConfig = {
   avatar?: string
   name: string
+  ICP: string
   bio?: string
   links: {
     name: string
