@@ -9,7 +9,7 @@ draft: false
 
 ### 测试内容
 ```javascript
-console.log('Hello World');
+console.log('Hello World111111111111');
 ```
 
 当你在浏览网页时，其实你和服务器之间有一种“特殊语言”来交流，这种语言叫做HTTP（Hypertext Transfer Protocol）。HTTP状态码就是这种特殊语言的“表情符号”，通过这些表情符号，服务器会告诉你它到底干了些什么事情。今天，让我们来深入了解HTTP状态码，它们是如何告诉服务器和浏览器之间的故事的。
