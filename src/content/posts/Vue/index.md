@@ -18,5 +18,8 @@ draft: false
 - [动图讲解算法](https://www.hello-algo.com/chapter_hello_algo/)
 - [力扣](https://leetcode.cn/)
 
+### 前端面试题
+- [1000道JavaScript面试题](https://github.com/sudheerj/javascript-interview-questions)
+
 ### 好看的字体下载
 - [霞鹜文楷](https://github.com/lxgw/LxgwWenkaiGB)
