@@ -21,5 +21,8 @@ draft: false
 ### 前端面试题
 - [1000道JavaScript面试题](https://github.com/sudheerj/javascript-interview-questions)
 
+### 前端代码规范
+- [Airbnb JavaScript 规范](https://github.com/airbnb/javascript)
+
 ### 好看的字体下载
 - [霞鹜文楷](https://github.com/lxgw/LxgwWenkaiGB)
